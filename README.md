@@ -1,1 +1,1 @@
-## BuddiesGram, a Social Network from Coding Cafe
+## BuddiesGram, a Social Network from Stavan Khisty
